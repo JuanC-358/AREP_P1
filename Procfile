@@ -1,2 +1,2 @@
-web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.mycompany.parcialt1arep.Server
+web: java $JAVA_OPTS -cp target/classes:target/dependency/* com.mycompany.parcialt1arep.App
 
